@@ -25,8 +25,7 @@ This information is essential for **healthcare pricing transparency**, analytics
 - **SQLAlchemy** – ORM for managing the database
 - **SQLite** – local lightweight database (can be switched to PostgreSQL)
 - **Uvicorn** – ASGI server for running FastAPI
-- **tmux** – terminal multiplexer to keep the API running on server
-
+  
 ---
 
 ## 🚀 How to Run Locally
